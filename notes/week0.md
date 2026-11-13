@@ -32,7 +32,9 @@
   - How many stores were closed? (check start of Note 18)
   - Does closing weak stores raise sales per store in FY2026?
 - **Starbucks China JV (Note 19, Nov 2025):** Boyu Capital takes up to 60% of China retail; Starbucks keeps 40% and licenses the brand. A shift away from company-operated in China.
-- **Starbucks SBC as % of operating cash flow:** ______
+- **Starbucks SBC (FY2025, USD M):** SBC $318.3M = **6.7%** of operating cash flow ($4,747.5M). Adjusted OCF after SBC = $4,429.2M.
+  - Week 2: compare SBC with "Repurchase of common stock" (Financing). Are buybacks mostly offsetting dilution or returning cash?
+  - Week 2: find capex ("Additions to property, plant and equipment") → FCF after SBC.
 - **Tims store count:** do small kiosks/counters in gas stations and grocery stores count as restaurants? That would lower Tims' sales per restaurant. Ctrl+F "non-standard", "kiosk", "self-serve" in the RBI 10-K.
 
 
@@ -76,3 +78,26 @@
 **Labor:** ~6% of U.S. company-operated stores are unionized. Labor risk sits with Starbucks in company-operated stores and with the operator in licensed/franchised ones.
 
 **Leadership:** CEO Brian Niccol (since Sep 2024; ex-Chipotle, ex-Taco Bell). COO Mike Grams (ex-Taco Bell, worked under Niccol there).
+
+
+## Concepts: SBC and free cash flow
+
+**Why SBC is added back in the cash flow statement**
+- Employees were paid in shares, not cash. The expense lowered profit, but no cash left the company, so GAAP adds it back to get operating cash flow.
+- The cash is real (it stayed in the company), but it isn't free: shareholders paid through dilution.
+- If the company buys back shares to offset dilution, that cash leaves through Financing, which FCF ignores. The cost "escapes" the metric.
+
+**My rule (same for every company)**
+- How much does the business earn? → FCF = operating cash flow − SBC − capex. Always subtract SBC.
+- What does management do with the cash? → buybacks, dividends, debt paydown. Never subtract buybacks from FCF (that's distribution, not a cost).
+- Never subtract both SBC and buybacks (double counting).
+
+**FCF vs liquidity**
+- FCF = cash the business generates in a year after costs and reinvestment (a flow). It's what owners can take out, and what a company's value is based on (Damodaran: value = present value of future FCF).
+- Liquidity = can the company pay bills due soon (a stock: cash on hand, current ratio).
+- Profit isn't cash (Foundations S3).
+- For my series: FCF ÷ invested capital = which model generates more free cash per dollar invested.
+
+**Starbucks cash flow FY2025, things to remember**
+- Net earnings fell almost by half: $3,762M → $1,857M. Loss on disposal/impairment jumped to $834.7M (from $121.5M), which is the restructuring (Note 18).
+- Leases are huge: non-cash lease costs $1,513.8M; operating lease liability payments ($1,576.7M). "Leases are debt": this is where company-operated and franchise models differ most.
