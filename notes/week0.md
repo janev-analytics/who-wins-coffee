@@ -98,6 +98,22 @@
 - Profit isn't cash (Foundations S3).
 - For my series: FCF ÷ invested capital = which model generates more free cash per dollar invested.
 
+**Two worlds, same business** (coffee shop makes 100, capex 30, staff earn 20; the only difference is HOW staff are paid)
+
+| Line | A: stock pay + buyback | B: cash pay | What happened |
+|---|---|---|---|
+| Operating cash flow | 100 | 80 | In B, the 20 salary left as cash. In A it didn't: staff got shares. |
+| − Capex | −30 | −30 | Same in both: same machines, same stores. |
+| **Reported FCF** | **70** | **50** | A looks 20 better... |
+| Buyback (Financing) | −20 | 0 | ...but A later buys the shares back for 20 cash. That's in Financing, outside FCF. |
+| **Change in cash** | **50** | **50** | Same bank balance. The businesses are identical. |
+
+- Reported FCF says A is better (70 vs 50). It isn't: the cash is the same. FCF can't see the salary paid in shares.
+- **Fix:** FCF after SBC in A = 70 − 20 = **50** → matches B ✅
+- **Don't also subtract the buyback:** 70 − 20 − 20 = 30 ❌ (the bank shows 50). Same salary paid twice.
+- **Rule:** subtracting SBC = paying staff in cash on paper, once. Buybacks never appear in my FCF formula.
+- **Formula:** FCF after SBC = Operating cash flow − SBC − Capex
+
 **Starbucks cash flow FY2025, things to remember**
 - Net earnings fell almost by half: $3,762M → $1,857M. Loss on disposal/impairment jumped to $834.7M (from $121.5M), which is the restructuring (Note 18).
 - Leases are huge: non-cash lease costs $1,513.8M; operating lease liability payments ($1,576.7M). "Leases are debt": this is where company-operated and franchise models differ most.
