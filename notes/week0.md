@@ -34,9 +34,9 @@
 - **Starbucks China JV (Note 19, Nov 2025):** Boyu Capital takes up to 60% of China retail; Starbucks keeps 40% and licenses the brand. A shift away from company-operated in China.
 - **Starbucks SBC as % of operating cash flow:** ______
 - - **Tims store count:** do small kiosks/counters in gas stations and grocery stores count as restaurants? That would lower Tims' sales per restaurant. Ctrl+F "non-standard", "kiosk", "self-serve" in the RBI 10-K.
-- **RBI advertising fund (FY2025, all brands, USD M):** revenues $1,217M vs expenses $1,358M → RBI added ~$141M of its own money. Not a pure pass-through. Which brand drives it? For Tims margins, exclude advertising revenues and expenses.
 
-- - **RBI advertising fund (FY2025, all brands, USD millions):** revenues $1,217M vs expenses $1,358M → RBI spent ~$141M (~12%) of its own money on top of franchisee contributions. Not a pure pass-through.
+
+- **RBI advertising fund (FY2025, all brands, USD millions):** revenues $1,217M vs expenses $1,358M → RBI spent ~$141M (~12%) of its own money on top of franchisee contributions. Not a pure pass-through.
   - Which brand drives the gap? (Burger King "Reclaim the Flame"?) Check MD&A by segment.
   - For Tims margins: exclude advertising revenues and expenses from the TH segment.
 
