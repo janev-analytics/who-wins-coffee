@@ -1,3 +1,10 @@
+# Sources
+
+| Company | Filing | Fiscal year end | Currency | Link |
+|---|---|---|---|---|
+| Starbucks | 10-K FY2025 | Sep 28, 2025 | USD | [10-K](https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm) |
+| RBI (Tim Hortons) | 10-K FY____ | | | |
+| Dutch Bros | 10-K FY____ | | | |
 
 ## Fiscal calendar notes
 
