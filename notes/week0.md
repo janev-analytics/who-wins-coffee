@@ -7,8 +7,8 @@
 4. **Franchise vs licensed store:** Franchise = brand's name, independent owner pays rent/staff and pays the brand fees, royalties and buys its products (Tim Hortons, 325 Dutch Bros shops). Licensed store = brand's store inside another business (Starbucks in Target, airports). Starbucks doesn't franchise in the U.S.
 5. **Segment contribution (Dutch Bros):** Segment revenue minus direct segment costs, before depreciation, SG&A and interest.
 
-## 1 surprise
--
+## First finding
+- Because of the “Back to Starbucks” initiative (store operating expenses jumped $15,286.5M → $17,058.9M, +$1.8B, while company-operated revenue grew only ~$1B), operating cash flow fell 22%. Starbucks’ FCF fell to $2,442M in FY2025, below its dividend of $2,771.4M. Instead of cutting the dividend, it paused buybacks (from $1,266.7M in FY2024 to zero) and issued $1,748.5M of new long-term debt while repaying $1,250.0M, so the dividend was partly funded by +$498.5M of net new debt. This works only if the turnaround lifts cash flow back above the dividend; otherwise Starbucks must keep borrowing or eventually cut it.
 
 ## Business models: the four ways coffee brands make money
 | Model | Name on the door | Who owns & runs it | Example |
