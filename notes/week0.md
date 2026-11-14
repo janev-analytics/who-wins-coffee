@@ -36,6 +36,7 @@
   - Week 2: compare SBC with "Repurchase of common stock" (Financing). Are buybacks mostly offsetting dilution or returning cash?
   - Week 2: find capex ("Additions to property, plant and equipment") → FCF after SBC.
 - **Tims store count:** do small kiosks/counters in gas stations and grocery stores count as restaurants? That would lower Tims' sales per restaurant. Ctrl+F "non-standard", "kiosk", "self-serve" in the RBI 10-K.
+- Starbucks doesn’t report assets by segment. Proxy: U.S. long-lived assets ($15.95B FY2025). Check whether Dutch Bros (U.S.-only) can be compared on the same basis.
 
 
 - **RBI advertising fund (FY2025, all brands, USD millions):** revenues $1,217M vs expenses $1,358M → RBI spent ~$141M (~12%) of its own money on top of franchisee contributions. Not a pure pass-through.
